@@ -4,3 +4,15 @@
        url('https://raine01.github.io/ff14rp/FFXIV_Lodestone_SSF.woff') format('woff');
   unicode-range: U+E020-E0DB;
 }
+@font-face {
+    font-family: Eorzea;
+    src: url("https://raine01.github.io/ff14rp/Eorzea-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: Kugane;
+    src: url("https://raine01.github.io/ff14rp/Kugane-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: Norvrandt;
+    src: url("https://raine01.github.io/ff14rp/Norvrandt-Regular.otf") format("opentype");
+}
