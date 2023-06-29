@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'FFXIV';
-  src: url('https://img.finalfantasyxiv.com/lds/pc/global/fonts/FFXIV_Lodestone_SSF.ttf') format('truetype'),
+  src: url('https://raine01.github.io/ff14rp/FFXIV_Lodestone_SSF.ttf') format('truetype'),
        url('https://img.finalfantasyxiv.com/lds/pc/global/fonts/FFXIV_Lodestone_SSF.woff') format('woff');
   unicode-range: U+E020-E0DB;
 }
