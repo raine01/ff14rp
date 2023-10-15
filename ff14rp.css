@@ -16,6 +16,6 @@
     font-family: Norvrandt;
     src: url("https://raine01.github.io/ff14rp/Norvrandt-Regular.otf") format("opentype");
 }
-i.eorzea {font-family:Eorzea;font-style:normal;}
-i.kugane {font-family:Kugane;font-style:normal;}
-i.norvrandt {font-family:Norvrandt;font-style:normal;}
+.eorzea {font-family:Eorzea;font-style:normal;}
+.kugane {font-family:Kugane;font-style:normal;}
+.norvrandt {font-family:Norvrandt;font-style:normal;}
